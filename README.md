@@ -1,11 +1,6 @@
 # Laravel ADK of KeySuggest
 This ADK (Addon development kit) provides additional middleware for KeySuggest API and can be used for creating add-ons.
 
-## Features
-1. User authentication
-2. UI Blocks
-3. Seamless Payment Gateway integration
-
 ## Setup and Installation
 
 ### 1. To install this ADK, you'll want to clone or download this repo:
