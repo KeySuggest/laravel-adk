@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="url" content="{{ url('/') }}">
+    <meta name="robots" content="noindex">
 
     <link rel="icon" href="https://keysuggest.io/favicon.ico" type="image/x-icon">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
