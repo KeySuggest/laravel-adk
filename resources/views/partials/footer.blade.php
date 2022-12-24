@@ -11,7 +11,7 @@
                     <h3 class="font-semibold text-black">Product</h3>
                     <ul class="mt-6 space-y-4 text-sm">
                         <li>
-                            <a href="/blog/keysuggest/keysuggest-features" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/blog/keysuggest/keysuggest-features" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Features</span>
                             </a>
@@ -40,19 +40,19 @@
                     <h3 class="font-semibold text-black">About</h3>
                     <ul class="mt-6 space-y-4 text-sm">
                         <li>
-                            <a href="/p/about" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/about" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Our Story</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/p/about-company" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/about-company" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Company</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/p/team" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/team" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Our Team</span>
                             </a>
@@ -81,7 +81,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="/sitemap.xml" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/sitemap.xml" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Sitemap</span>
                             </a>
@@ -92,25 +92,25 @@
                     <h3 class="font-semibold text-black">Contact</h3>
                     <ul class="mt-6 space-y-4 text-sm">
                         <li>
-                            <a href="/p/contact?purpose=advertising" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/contact?purpose=advertising" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Advertising</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/p/contact?purpose=press" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/contact?purpose=press" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Press</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/p/contact?purpose=partners" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/contact?purpose=partners" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Partners</span>
                             </a>
                         </li>
                         <li>
-                            <a href="/p/contact" class="relative inline-block text-black group">
+                            <a href="https://keysuggest.io/p/contact" class="relative inline-block text-black group">
                                 <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-1"></span>
                                 <span>Email</span>
                             </a>
@@ -124,19 +124,19 @@
             <ul class="flex flex-wrap space-x-5 text-xs">
                 <li class="mb-6 text-center flex-full lg:flex-none lg:mb-0">&copy; {{ date('Y') }} KeySuggest, Inc. All rights reserved.</li>
                 <li class="lg:ml-6">
-                    <a href="/p/privacy-policy" class="relative inline-block text-black group">
+                    <a href="https://keysuggest.io/p/privacy-policy" class="relative inline-block text-black group">
                         <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-0"></span>
                         <span>Privacy Policy</span>
                     </a>
                 </li>
                 <li class="ml-auto mr-auto text-center lg:ml-6 lg:mr-0">
-                    <a href="/p/refund-policy" class="relative inline-block text-black group">
+                    <a href="https://keysuggest.io/p/refund-policy" class="relative inline-block text-black group">
                         <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-0"></span>
                         <span>Refund Policy</span>
                     </a>
                 </li>
                 <li class="lg:ml-6">
-                    <a href="/p/tos" class="relative inline-block text-black group">
+                    <a href="https://keysuggest.io/p/tos" class="relative inline-block text-black group">
                         <span class="absolute bottom-0 w-full transition duration-150 ease-out transform -translate-y-1 border-b border-black opacity-0 group-hover:opacity-100 group-hover:translate-y-0"></span>
                         <span>Terms and Conditions</span>
                     </a>
